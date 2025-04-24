@@ -23,7 +23,7 @@ dnspython
 email-validator
 eval_type_backport
 exceptiongroup
-faiss
+faiss-cpu
 fastapi
 fastapi-cli
 filetype
