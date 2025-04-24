@@ -106,3 +106,4 @@ regex
 requests
 requests-toolbelt
 rich
+uvicorn
