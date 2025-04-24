@@ -86,7 +86,6 @@ packaging
 pandas
 pillow
 pinecone
-pinecone-plugin-inference
 pinecone-plugin-interface
 platformdirs
 propcache
